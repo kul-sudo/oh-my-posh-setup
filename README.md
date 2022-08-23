@@ -5,6 +5,9 @@
 My personal Oh My Posh setup
 
 # Windows 10/11
+## Install Scoop
+https://scoop.sh/
+
 ## Install
 `scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json`
 
