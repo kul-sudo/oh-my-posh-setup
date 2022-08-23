@@ -11,7 +11,7 @@ My personal Oh My Posh setup
 ## Fonts
 https://ohmyposh.dev/docs/installation/fonts
 
-## Making Powershell always run with the Oh My Posh profile
+## Making Powershell always run with the Oh My Posh profile along with the theme
 `notepad $PROFILE`\
 The notepad opens up
 
