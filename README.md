@@ -9,7 +9,7 @@ My personal Oh My Posh setup
 https://ohmyposh.dev/docs/installation/fonts
 
 ## Making Powershell always run with the Oh My Posh profile
-`notepad $PROFILE`
+`notepad $PROFILE`\
 The notepad opens up
 
 `oh-my-posh init pwsh  --config "path\to\theme.json" | Invoke-Expression` has to be inserted into the file opened in the notepad
