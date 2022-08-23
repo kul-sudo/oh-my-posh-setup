@@ -1,3 +1,6 @@
+
+![Screenshot 2022-08-24 025410](https://user-images.githubusercontent.com/95244851/186285969-f7694012-f834-4957-b35b-3d2dccaf5491.png)
+
 # oh-my-posh-setup
 My personal Oh My Posh setup
 
