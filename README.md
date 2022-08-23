@@ -8,7 +8,7 @@ My personal Oh My Posh setup
 ## Install Scoop
 https://scoop.sh/
 
-## Install
+## Install Oh My Posh
 `scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json`
 
 ## Fonts
